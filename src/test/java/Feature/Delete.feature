@@ -1,4 +1,4 @@
-Feature: To show the use of Delete and the power of GIT
+Feature: To show the use of Delete calls
 
 Background:
 
