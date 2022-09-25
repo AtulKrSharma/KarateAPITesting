@@ -1,4 +1,4 @@
-#Author: your.email@your.domain.com
+#Author: sharma.atulkumar29@gmail.com
 
 Feature: check the responses returned by API
 
