@@ -1,8 +1,9 @@
 function fn(){
 	
 	var config={		
-		name: "Atul"
-		
+		name: "Atul",
+		Lname="Sharma",
+		Job="QA Leader"		
 	};
 	return config
 	
